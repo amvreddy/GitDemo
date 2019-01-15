@@ -1,9 +1,1 @@
 Madhava Reddy
-
-<<<<<<< HEAD
-Lahari Reddy
-
-Madhu
-=======
-Lahari 
->>>>>>> mr191
